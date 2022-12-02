@@ -1,6 +1,6 @@
 ---
 title: Intel x86_64
-permalink: /intel.md
+permalink: /
 layout: default 
 ---
 
