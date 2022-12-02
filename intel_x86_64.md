@@ -1,3 +1,9 @@
+---
+title: Intel x86_64
+permalink: /intel.md
+layout: default 
+---
+
 # Intel x86_64
 Created: 21. 02. 2022 11:32
 
