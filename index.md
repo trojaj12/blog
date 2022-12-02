@@ -1,7 +1,7 @@
 ---
 title: CNI
 permalink: /
-layout: Minima 
+layout: minima 
 ---
 # CNI
 
